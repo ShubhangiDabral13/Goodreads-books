@@ -2,6 +2,15 @@
 Analysis and visualization of data provided by Goodreads-books
 
 
+NOTE: Github is not rendering the plotly graphs as of now and so to see the plots you have to follows the follwing thing:
+
+Open the ipynb files hover over that circular sign and then click on the link. It will send you to another page where you can see the whole code and plots as well.
+
+e.g.
+![Screenshot (126)](https://user-images.githubusercontent.com/44902363/83943129-1d72d300-a817-11ea-9115-a17953378002.png)
+
+
+
 ### Author:-
 
 #### Shubhangi Dabral (ShubhangiDabral13)
